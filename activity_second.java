@@ -14,7 +14,12 @@ public class activity_second extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) 
    {
-      // Write the coding part for onCreate Method 
+      /*............... Write the coding part for onCreate Method..............
+        .................................................
+        ...........................................
+
+
+    */
         
     }
 }
