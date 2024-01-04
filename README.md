@@ -47,9 +47,9 @@ RegisterNumber:
 
 ## activity_main.xml:
 
-## Output:
+## OUTPUT:
 
 
 
-## Result:
+## RESULT:
 Thus a Simple Android Application to open google page using Implicit Intents in Android Studio was developed and executed successfully.
